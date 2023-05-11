@@ -1,0 +1,13 @@
+testname		iterations till crash		time till crash
+
+test RANDOM 0.2046210765838623	
+test PCT 0.1749417781829834	
+async_match_deadlock RANDOM 0.16974377632141113	
+async_match_deadlock PCT 0.16965603828430176	
+find_deadlock_config RANDOM 0.1673438549041748	
+find_deadlock_config PCT 0.17023992538452148	
+minimal_deadlock RANDOM 0.16678285598754883	
+minimal_deadlock PCT 0.16843318939208984	
+figure5 RANDOM 0.16852188110351562	
+figure5 PCT 0.17528128623962402	
+

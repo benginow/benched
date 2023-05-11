@@ -1,0 +1,4 @@
+target/debug/fuzz_target
+--
+--test
+test1
